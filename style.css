@@ -78,17 +78,13 @@ body{
 }
 
 .modal-header #closeBtn{
-    color: rgb(218, 0, 0);
+    color: rgb(0, 0, 0);
     font-size: 23px;
     cursor: pointer;
     transition: all 0.3s;
     padding: 5px;
     border-radius: 50%;
     background-color: transparent;
-}
-
-.modal-header #closeBtn:hover{
-    background-color: black;
 }
 
 
